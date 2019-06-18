@@ -1,0 +1,24 @@
+h1{
+    background: #131313;
+    color:#54206E;
+    /* border-color: yellow;
+    border-width: 5px;
+    border-style: solid; */
+    border: 8px yellow  dashed;
+}
+
+h4{
+    color:rgb(24, 32, 250);
+}
+
+li{
+    color:rgba(10, 150, 200, 0.3)
+}
+h3{
+    color:pink;
+}
+body{
+    background:url(https://cdn.wallpapersafari.com/50/12/pEugN5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
