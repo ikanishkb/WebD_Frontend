@@ -13,6 +13,7 @@ body{
     font-size: 1.5rem;
     font-weight: 300;  
     padding-top: 0;
+    padding-right: 0;
     padding-bottom: 0;
     
 }
@@ -32,4 +33,24 @@ body{
 #museumofcandy h1{
     font-weight: 100;
     font-size: 3rem;
+}
+
+@media(max-width: 1200px){
+    #museumofcandy h1{
+        font-weight: 100;
+        font-size: 2.5rem;
+    }
+}
+
+.blah h2{
+    color: #ea1c2c;
+    font-weight: 100;
+    font-size: 2.5rem;
+}
+
+.blah p{
+    color: #f498b8;
+    font-weight: 100;
+    font-size: 1.125rem;
+    line-height: 2;
 }
