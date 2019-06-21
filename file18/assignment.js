@@ -77,3 +77,16 @@
 //     }
 //     console.log(str);
 // }
+
+//10)
+// var numLines = prompt("Enter number of lines to print");
+// for(var i=1;i<=numLines;i++){   
+//     var str="";
+//     for(var k=0;k<numLines-i; k++){
+//         str+=" ";
+//     }
+//     for(var j=1;j<=2*i-1;j++){
+//         str+="*";
+//     }
+//     console.log(str);
+// }
