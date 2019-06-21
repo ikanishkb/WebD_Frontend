@@ -71,7 +71,9 @@
 // 9)
 // var numLines = prompt("Enter number of lines to print");
 // for(var i=1;i<=numLines;i++){   
+//     var str="";
 //     for(var j=1;j<=i;j++){
-//         console.log(i);
+//         str+="*";
 //     }
+//     console.log(str);
 // }
